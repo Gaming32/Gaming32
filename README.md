@@ -5,7 +5,7 @@
 
 <br>
 
-<a href="https://nxapi-auth.fancy.org.uk/@Gaming32">
+<a href="https://nxapi-auth.fancy.org.uk/@Gaming32" target="_blank">
   <picture>
     <source srcset="https://nxapi-presence.fancy.org.uk/api/presence/ddac4d1c5d6bfb5c/embed?include-splatoon3=1&#38;theme=dark&#38;show-splatoon3-fest-team=1" media="(prefers-color-scheme: dark)" />
     <img src="https://nxapi-presence.fancy.org.uk/api/presence/ddac4d1c5d6bfb5c/embed?include-splatoon3=1&#38;theme=light&#38;show-splatoon3-fest-team=1" alt="Nintendo Switch presence" />
